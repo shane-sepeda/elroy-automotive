@@ -63,3 +63,8 @@ body, html {
 .info {
     color: whitesmoke;
 }
+
+/* Position text in the top-left corner */
+.center {
+  align-items: center;
+}
