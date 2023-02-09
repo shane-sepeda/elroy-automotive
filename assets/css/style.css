@@ -51,8 +51,9 @@ body, html {
     width: 40%;
   }
 
-.page_logo
-{
-    max-width:25%;
-        height:auto;
+.page_logo {
+    height: auto; 
+    width: auto; 
+    max-width: 700px; 
+    max-height: 700px;
 }
